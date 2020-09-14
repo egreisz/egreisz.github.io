@@ -1,5 +1,3 @@
-<a href="https://colab.research.google.com/github/egreisz/egreisz.github.io/blob/master/PoliticalSentimentAnalysis.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-
 # **Rudimentary Sentiment Analysis of Campaign Speeches By President Donald Trump and Vice President Joe Biden**
 
 
@@ -23,7 +21,7 @@ NOTE: Proper style conventions usually dictate that both candidates be addressed
 
 # Step 1: Data Collection and Arrangement
 
-<h3>Finding a Data Source</h2>
+<h3>Finding a Data Source</h3>
 
 The most important part of any research is getting adequate data. For this process, we want to look at speeches done by the two major candidates.
 
